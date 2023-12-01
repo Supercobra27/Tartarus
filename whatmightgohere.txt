@@ -1,7 +1,3 @@
-Low-Level Programming Languages:
-
-Assembly language
-Machine code
 Esoteric Programming Languages:
 
 Brainfuck
@@ -13,8 +9,6 @@ APL (A Programming Language)
 Haskell (known for its strong mathematical foundation)
 Hardware Description Languages (HDLs):
 
-Verilog
-VHDL
 Advanced Topics:
 
 Quantum programming languages (Qiskit for Quantum Computing, Quipper)
