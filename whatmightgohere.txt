@@ -7,15 +7,12 @@ Complex Mathematical Languages:
 
 APL (A Programming Language)
 Haskell (known for its strong mathematical foundation)
-Hardware Description Languages (HDLs):
 
 Advanced Topics:
 
 Quantum programming languages (Qiskit for Quantum Computing, Quipper)
-Cryptographic languages (like Cryptol)
 Complex Frameworks:
 
-CUDA (for parallel computing on NVIDIA GPUs)
 OpenCL (for heterogeneous computing)
 Advanced Concepts:
 
@@ -23,5 +20,7 @@ Functional programming languages (like Erlang or Haskell)
 Metaprogramming languages (like Lisp)
 Challenging Paradigms:
 
-Prolog (logic programming)
 Forth (stack-based programming)
+COBOL (Bank language)
+Perl (scripting language)
+Fortran (Cause why not)

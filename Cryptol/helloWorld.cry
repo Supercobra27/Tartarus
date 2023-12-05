@@ -1,0 +1,27 @@
+module Main where --cryptol is run on modules
+
+main : {io} IO () --allows the program to enter IO operations
+main = putStrLn "Hello, World!" --the print function of cryptol
+
+--Datatypes in Cryptol
+
+--Bits
+b : Bit --0 or 1
+b = 0
+b = 1
+
+--Booleans
+b1 : Bool --True or False
+b1 = True
+b1 = False
+
+--Integers
+i8 : [8] --[n] where n is the size in bits
+i8 = 42
+
+--Floating Point numbers
+f32 : [8, 24] --floats are done as [e,p], where e is the exponent size and p is the precision size
+
+-- Sequences
+seq1 : [4] Bool -- Basically arrays where [a], a is the size followed by the type
+seq 1 = [True, True, True, True]
