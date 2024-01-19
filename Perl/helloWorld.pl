@@ -41,5 +41,10 @@ $data{'me'} = 44;
 
 print "%test\n";
 
+delete %test 'me';
+
+
+
+
 # stopped at arrays
 #https://www.tutorialspoint.com/perl/perl_arrays.htm
